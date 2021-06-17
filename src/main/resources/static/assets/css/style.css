@@ -1,0 +1,12 @@
+header .logo a .logo-text {
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #fff;
+    margin-left: 12px
+}
+
+header .logo a .logo-image img {
+    width: 32px;
+    height: 32px;
+    display: block
+}
